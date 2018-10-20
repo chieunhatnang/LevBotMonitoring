@@ -1,5 +1,5 @@
 # LevBotMonitoring
-Automatically restart any bot at a specific time or periodically
+Automatically restart any bot at a specific time or periodically.
 
 # Download
 
