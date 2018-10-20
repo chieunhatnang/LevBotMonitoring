@@ -8,7 +8,7 @@ This bot supports 2 working mode. By default, the monitor starts without argumen
 
 ## Arguments
 
-LevBotMonitoring -p <exe_path> -m <each|fix> -t <running_time (m)> -a
+***LevBotMonitoring -p <exe_path> -m <each|fix> -t <running_time (m)> -a***
 
 * -p: Specify the file path of the executable file. Please note that if there's space in the path, you have to enclose the path in the double quote ("").
 * -m: Specify the monitoring type: There are 2 types
